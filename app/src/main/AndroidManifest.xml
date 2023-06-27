@@ -30,6 +30,9 @@
             android:name=".housekeeper"
             android:exported="false" />
         <activity
+            android:name=".signin_activity"
+            android:exported="false" />
+        <activity
             android:name=".mechanic"
             android:exported="false" />
         <activity

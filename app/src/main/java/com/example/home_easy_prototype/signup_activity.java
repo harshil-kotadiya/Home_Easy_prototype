@@ -20,6 +20,7 @@ public class signup_activity extends AppCompatActivity {
             @Override
             public void onClick(View view) {
                 Intent i = new Intent(signup_activity.this,MainActivity.class);
+                startActivity(i);
             }
         });
     }
